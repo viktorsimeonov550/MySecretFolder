@@ -55,7 +55,7 @@
             label1.Name = "label1";
             label1.Size = new Size(936, 65);
             label1.TabIndex = 0;
-            label1.Text = "Wellcome to your secret folder";
+            label1.Text = "Welcome to your secret folder";
             label1.TextAlign = ContentAlignment.TopCenter;
             // 
             // imageListIcon
